@@ -1,2 +1,2 @@
 # SQL-Exercises
-All research SQL assignment
+All SQL assignment
