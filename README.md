@@ -1,2 +1,2 @@
 # SQL-Exercises
-All SQL assignment
+All SQL exercises
